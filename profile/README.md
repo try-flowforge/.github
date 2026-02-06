@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://www.github.com/try-flowforge/">
+  <a href="https://try-flowforge.vercel.app">
     <img src="https://raw.githubusercontent.com/try-flowforge/.github/main/assets/logo.svg" alt="FlowForge">
   </a>
 </div>
 
-<h3 align="center">Built for <a href="https://ethglobal.com/events/hackmoney2026">@ETHGlobal</a> HackMoney 2026 Submission.</h3>
+<h3 align="center">Built for <a href="https://ethglobal.com/events/hackmoney2026">@ETHGlobal</a> HackMoney 2026 Submission. Try it: <a href="https://try-flowforge.vercel.app"><img src="https://raw.githubusercontent.com/try-flowforge/.github/main/assets/favicon.ico" alt="FlowForge" width="16" height="16"></a></h3>
 
 ---
 
@@ -195,6 +195,16 @@ When triggered:
 
 - Rapid experimentation on testnets
 - Iterate on logic without writing low-level blockchain code
+
+---
+
+## Documentation
+
+Setup and reference for each part of the stack:
+
+- **[Backend](https://github.com/try-flowforge/backend/blob/main/README.md)** — Project structure, setup, API, env vars, Docker
+- **[Frontend](https://github.com/try-flowforge/frontend/blob/main/README.md)** — Project structure, setup, block system, env vars
+- **[LLM Service](https://github.com/try-flowforge/llm-service/blob/main/README.md)** — Project structure, setup, API, config, error codes
 
 ---
 
