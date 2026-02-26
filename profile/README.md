@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Built for <a href="https://ethglobal.com/events/hackmoney2026">@ETHGlobal</a> HackMoney 2026 Submission. Try it: <a href="https://try-flowforge.vercel.app"><img src="https://raw.githubusercontent.com/try-flowforge/.github/main/assets/favicon.ico" alt="FlowForge" width="16" height="16"></a></h3>
+<h3 align="center">Try it: <a href="https://try-flowforge.vercel.app"><img src="https://raw.githubusercontent.com/try-flowforge/.github/main/assets/favicon.ico" alt="FlowForge" width="16" height="16"></a></h3>
 
 ---
 
